@@ -1,0 +1,16 @@
+﻿@model CoolNote5.Models.IndexModel
+
+
+<div class="text-center">
+    @if (string.IsNullOrWhiteSpace(Model.Note))
+    {
+        <p>No notes available!</p>
+    }
+    else
+    {
+        <p>@Model.Note</p>
+    }
+    <small>Edits: @Model.EditsAmount</small>
+    <br/><br/>
+    <a asp-page="/Note">Go to edit page</a>
+</div>
