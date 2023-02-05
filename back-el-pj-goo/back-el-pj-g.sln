@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "back-el-pj-g", "back-el-pj-g\back-el-pj-g.csproj", "{D3F3741C-E053-4519-BC87-C5DAAC377F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F3741C-E053-4519-BC87-C5DAAC377F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F3741C-E053-4519-BC87-C5DAAC377F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F3741C-E053-4519-BC87-C5DAAC377F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F3741C-E053-4519-BC87-C5DAAC377F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE5F13B-DA89-45FA-A6FE-DAF5EFDF5F5F}
+	EndGlobalSection
+EndGlobal
